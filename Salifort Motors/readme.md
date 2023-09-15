@@ -33,5 +33,5 @@ This include;
 - conclusion, recommendation, and next steps.
 
 NB: Due to the computational time of building a random forest model, they were run once and saved as pickle files and read back into the jupyter nootebook for analysis.
-- Random forest model one[]
-- Random forest model two[]
+- [Random forest model one pickle file](https://github.com/Josiahgare/data-project/blob/main/Salifort%20Motors/hr_rf1.pickle)
+- [Random forest model two pickle file](https://github.com/Josiahgare/data-project/blob/main/Salifort%20Motors/hr_rf2.pickle)
