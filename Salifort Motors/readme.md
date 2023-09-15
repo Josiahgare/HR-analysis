@@ -12,7 +12,8 @@ The `HR dataset` consist of 14,999 rows and 10 columns and analysis was carred o
 In the plan phase, python was selected as the appropriate programming language for the task. Python libraries such as pandas, numpy, matpltlib, seaborn, sci-kit learn, xgboost, and pickle were imported into my jupyter notebook. The dataset was also loaded into the jupyter notebook for analysis to begin. Other aspect of the plan phase included data undertanding, exploration, and cleaning.
 
 ### Phase 2: Analyze
-In the analyze plan, exploratory data analysis was carried out to find out the relationships between features and get insights through data visualization. The data was also prepared for modeling. *data visualization*
+In the analyze plan, exploratory data analysis was carried out to find out the relationships between features and get insights through data visualization. The data was also prepared for modeling.
+![EDA](https://github.com/Josiahgare/data-project/assets/117512409/568f2a82-1e45-457d-a7dd-3dbcace101ea)
 
 ### Phase 3: Construct
 In the construct phase, data preparation, model development, and model evaluation was carried out. For the purpose of this project regresson models and machine learning models were built to demonstrate proficiency.
