@@ -4,7 +4,7 @@ The HR at Salifort is concerned about the rate of employees leaving the company 
 
 The task is to build a model that predict employees who will leave the company. To do this, HR did a survey of their employees and provided the response to the data science team to run analysis on.  The deliverables include;
 - One page executive summary[]
-- A complete code notebook[]  
+- [A complete code notebook](https://github.com/Josiahgare/data-project/blob/main/Salifort%20Motors/Salifort%20Motors.ipynb) 
 
 The `HR dataset` consist of 14,999 rows and 10 columns and analysis was carred out under a Plan,Analyze, Construct, and Execute (PACE) framework.
 
