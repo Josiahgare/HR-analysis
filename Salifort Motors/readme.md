@@ -6,7 +6,7 @@ The task is to build a model that predict employees who will leave the company. 
 - [One page executive summary](https://github.com/Josiahgare/data-project/blob/main/Salifort%20Motors/Salifort%20motors%20summary.pptx)
 - [A complete code notebook](https://github.com/Josiahgare/data-project/blob/main/Salifort%20Motors/Salifort%20Motors.ipynb) 
 
-The `HR dataset` consist of 14,999 rows and 10 columns and analysis was carred out under a Plan,Analyze, Construct, and Execute (PACE) framework.
+The `HR dataset` consist of 14,999 rows and 10 columns and analysis was carred out under a Plan,Analyze, Construct, and Execute (PACE) framework. The dataset can be found on [here](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) on kaggle
 
 ### Phase 1: Plan
 In the plan phase, python was selected as the appropriate programming language for the task. Python libraries such as pandas, numpy, matpltlib, seaborn, sci-kit learn, xgboost, and pickle were imported into my jupyter notebook. The dataset was also loaded into the jupyter notebook for analysis to begin. Other aspect of the plan phase included data undertanding, exploration, and cleaning.
