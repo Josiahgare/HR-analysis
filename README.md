@@ -1,4 +1,11 @@
 ## Data Project
-Contain projects related to data science. This include;
+Contain python code projects related to data science. This include;
+- Data Understanding
+- Data Cleaning
+- Exploratory Data Analysis
+- Uncovering Insights
 - Building Regression models
 - Building Machine Learning Models
+- Model Evaluation
+- Documentation and Summary
+- Presentation
