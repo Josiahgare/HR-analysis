@@ -4,7 +4,7 @@ Contain python code projects related to data science. This include;
 - Data Cleaning
 - Exploratory Data Analysis
 - Uncovering Insights
-- Building Regression models
+- Building Regression Models
 - Building Machine Learning Models
 - Model Evaluation
 - Documentation and Summary
