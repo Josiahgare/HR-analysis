@@ -9,6 +9,10 @@ The task is to build a model that predict employees who will leave the company. 
 The `HR dataset` consist of 14,999 rows and 10 columns and analysis was carred out under a Plan,Analyze, Construct, and Execute (PACE) framework.  
 Link to dataset: [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
 
+## Split python code notebook
+- [EDA](https://github.com/Josiahgare/HR-analysis/blob/main/HR%20Analysis%20(EDA).ipynb)
+- [Modeling](https://github.com/Josiahgare/HR-analysis/blob/main/Modeling.ipynb)
+
 ## Phase 1: Plan
 In the plan phase, python was selected as the appropriate programming language for the task. Python libraries such as pandas, numpy, matpltlib, seaborn, sci-kit learn, xgboost, and pickle were imported into my jupyter notebook. The dataset was also loaded into the jupyter notebook for analysis to begin. Other aspect of the plan phase included data undertanding, exploration, and cleaning.
 
